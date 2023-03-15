@@ -11,8 +11,7 @@
 - :seedling: Exploring More Tech new ideas.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin
-- 🤯 50% Off! 700+ courses, assessments, and books
-Browse Titles
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
